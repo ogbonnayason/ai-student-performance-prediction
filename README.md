@@ -31,9 +31,13 @@ This project builds predictive models based on student academic, behavioral, and
 ## 📊 Results Summary
 
 Model  ---  	Accuracy
+
 Random Forest  ---  	89%
+
 Logistic Regression  ---  	84%
+
 SVM  ---  	85%
+
 XGBoost  ---  	88%
 
 The Random Forest model performed best on the test dataset with the highest accuracy and interpretability.
@@ -42,12 +46,12 @@ The Random Forest model performed best on the test dataset with the highest accu
 
 ## 📌 Dependencies
 
-Python
+Python,
 pandas, numpy
-scikit‑learn
-xgboost
-streamlit
-matplotlib, seaborn
+scikit‑learn,
+xgboost,
+streamlit,
+matplotlib, seaborn.
 
 ---
 
